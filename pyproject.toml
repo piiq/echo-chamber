@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ai_toolbox"
+name = "echo-chamber"
 version = "0.1.0"
 description = ""
 authors = ["Theodore Aptekarev <aptekarev@gmail.com>"]
