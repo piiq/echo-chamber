@@ -1,4 +1,4 @@
-# Notebooks for working with GenAI audio
+# Environment for working with GenAI audio
 
 ## Installation
 
